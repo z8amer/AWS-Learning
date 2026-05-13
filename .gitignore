@@ -1,0 +1,21 @@
+# OS garbage
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets (just in case)
+*.pem
+*.key
+credentials.json
+.env
+
+# Large or temporary files
+*.tmp
+*.log
